@@ -1,5 +1,5 @@
 # CUS1172_FinalProject
-**Deployment Process (Deployed Entirely On Heroku** 
+**Deployment Process (Deployed Entirely On Heroku)** 
 - Deployed Using GitHub Deploy
   - Application deployment is set up to be automatically deployed through the master branch of this repository.
 - Deployment URL: https://cus1172finalproject-elsonlin.herokuapp.com/
