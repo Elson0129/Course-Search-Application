@@ -1,4 +1,4 @@
-# CUS1172_FinalProject
+# Course-Search-Application
 **Deployment Process (Deployed Entirely On Heroku)** 
 - Deployed Using GitHub Deploy
   - Application deployment is set up to be automatically deployed through the master branch of this repository.
